@@ -1,8 +1,7 @@
 # Desafio da DIO sobre Git/GitHub
 Criando um repositório pela primeira vez para fixar a aprendizagem
 
-## Links para aprofundar conhecimentos
-[Markdown Basic Sintax](https://www.markdownguide.org/basic-syntax/)
+### Este é um projeto inical aonde procurei expor um pouco do meu gosto pela culinária. Vou compartilhar as receitas que mais gostei e que tem feito sucesso aqui em casa. Essas receitas são do [Padeiro de Apartamento](https://www.padeirodeapartamento.com.br/).
 
 ---
 
